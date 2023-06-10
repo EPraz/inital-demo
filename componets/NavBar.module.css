@@ -1,0 +1,8 @@
+.menu-container a {
+  margin-right: 10px;
+  color: black;
+}
+
+.menu-container {
+  background-color: white;
+}
